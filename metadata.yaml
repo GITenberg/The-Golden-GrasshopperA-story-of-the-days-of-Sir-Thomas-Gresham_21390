@@ -1,0 +1,37 @@
+_repo: The-Golden-GrasshopperA-story-of-the-days-of-Sir-Thomas-Gresham_21390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648 -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Mary I, 1553-1558 -- Juvenile fiction'
+- !lcsh 'Royal Exchange (London, England) -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Juvenile fiction'
+- !lcsh 'Gresham, Thomas, Sir, 1519? 1579 -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Biographical fiction'
+title: 'The Golden Grasshopper: A story of the days of Sir Thomas Gresham'
+url: http://www.gutenberg.org/ebooks/21390
